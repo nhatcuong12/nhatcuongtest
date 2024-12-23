@@ -1,13 +1,27 @@
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=nhatcuong12&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nhatcuong12&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nhatcuong12&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Hi there 👋 I'm LeTranNhatCuong
+### 🛠️ Technologies and Tools
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Skill
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+### 📂 Featured Projects
+- [CTFd](https://github.com/CTFd/CTFd)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Luuducloc0926&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luuducloc0926&layout=compact&theme=radical)
+![Thank You GIF](https://media.giphy.com/media/3o7aD6A42VWU1TGXMw/giphy.gif)
 
----
-[![](https://visitcount.itsvg.in/api?id=nhatcuong12&icon=0&color=0)](https://visitcount.itsvg.in)
+<!--
+**nhatcuong12/LeTranNhatCuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
