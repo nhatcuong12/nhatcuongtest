@@ -7,8 +7,8 @@
 ### 📂 Featured Projects
 - [CTFd](https://github.com/CTFd/CTFd)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Luuducloc0926&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luuducloc0926&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nhatcuong12&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhatcuong12&layout=compact&theme=radical)
 ![Thank You GIF](https://media.giphy.com/media/3o7aD6A42VWU1TGXMw/giphy.gif)
 
 <!--
